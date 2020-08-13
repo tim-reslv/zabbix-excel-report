@@ -1,6 +1,7 @@
 ### What is this repository for? ###
 
-Get history and trend data via Zabbix api and generate Excel report
+Get history and trend data via Zabbix api and generate Excel report.
+
 Tested in Zabbix 4.4
 
 Replace ApiUrl, user and password before run the script.
