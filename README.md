@@ -33,4 +33,3 @@ Windows items:
 
  Report Example:
  ![Example Report](./report.jpg)
-Format: ![Alt Text](url)
